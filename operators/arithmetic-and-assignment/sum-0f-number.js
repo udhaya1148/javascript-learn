@@ -5,8 +5,8 @@ num = 123;
 sum = 0;
 
 while(num >0){
-    digit = num % 10;
+    digit = num % 10; //get last digit
     sum +=digit;
-    num = Math.floor(num/10)
+    num = Math.floor(num/10) // remove last digit
 }
 console.log(sum)
