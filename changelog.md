@@ -5,3 +5,4 @@
 - Arrow functions
 - Default parameters
 
+## 14-10-2025 - Scope & Hoisting
