@@ -7,6 +7,11 @@
 
 ## 14-10-2025 - Scope & Hoisting
 
-## 15-10-2015
+## 15-10-2025
 - closure
 - ES6 Features
+
+## 16-10-2025
+- Dom Manipulation
+- Events
+- Error handling
