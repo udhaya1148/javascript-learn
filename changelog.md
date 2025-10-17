@@ -15,3 +15,7 @@
 - Dom Manipulation
 - Events
 - Error handling
+
+## 17-10-2025
+- Modules
+- Event loop
